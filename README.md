@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1A1A,50:BA7517,75:1A1A1A,100:0D1117&height=220&section=header&text=SAAD%20PARKAR&fontSize=65&fontColor=F5EDE4&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20Cybersecurity%20%2B%20Cloud%20%C3%97%20AI%20Builder&descAlignY=55&descSize=17&descColor=D8853D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1A1A,50:BA7517,75:1A1A1A,100:0D1117&height=230&section=header&text=SAAD%20PARKAR&fontSize=68&fontColor=F5EDE4&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20CTO%2C%20Coreegin%20%C3%97%20Full%20Stack%20Developer%20%C3%97%20Cybersecurity%20%2B%20Cloud&descAlignY=57&descSize=16&descColor=D8853D" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=750&lines=Founder+%26+CTO+%40+Coreegin;Shipping+AI-Powered+Software+at+Speed;Breaking+Into+Networking+%2B+Cybersecurity;Fusing+Full+Stack+Dev+with+System-Level+Security;CCNA+%2B+AWS+In+Progress+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=780&lines=Founder+%26+CTO+%40+Coreegin;Full+Stack+Developer+%E2%80%94+Ship+First%2C+Iterate+Fast;Deep+Diving+into+Cybersecurity;Building+Cloud+Fluency+for+What's+Next;Product+%2B+Security+%2B+Infrastructure+%3D+One+Skillset" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,56 +24,45 @@
 ```yaml
 identity:
   name: "Saad Parkar"
-  callsign: "Founder & CTO @ Coreegin"
+  role: "Founder & CTO @ Coreegin"
   base: "Navi Mumbai, India"
-  mission: "Build fast with AI. Secure it like it matters. Scale it like it's permanent."
 
-stack_philosophy:
-  build: "React, Node, Supabase — ship product, not prototypes"
-  automate: "n8n + AI-assisted workflows — remove repetitive work at the source"
-  secure: "CCNA-in-progress mindset — design networks & systems that don't break"
-  scale: "AWS fundamentals — cloud-native from day one"
+core_focus:
+  - "Founder & CTO — building and shipping AI-powered software at Coreegin"
+  - "Full Stack Developer — production-grade apps, not prototypes"
+  - "Cybersecurity — deep-diving into network security, threat modeling, defense fundamentals"
+  - "Cloud — building fluency across cloud infrastructure and deployment"
 
-currently:
-  - "Building AI-powered products at Coreegin"
-  - "Studying for CCNA — network topology, routing, ACLs, segmentation"
-  - "Learning AWS — EC2, S3, IAM, cloud architecture fundamentals"
-  - "Fusing dev + security into one discipline, not two separate tracks"
+mission: "Build products that work. Secure them like they matter. Never stop learning the layer underneath."
 ```
 
 <br/>
 
-## 🧬 The Stack — Build × Secure × Automate
+## 🧬 Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**⚡ Full Stack**
-<br/>
+**⚡ Full Stack Development**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**🗄️ Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,figma&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**🔐 Networking & Security**
-<br/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+**🗄️ Backend, Data & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,figma,git,github,vscode&theme=dark"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**☁️ Cloud**
-<br/>
+**🔐 Security & Cloud**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 
 </td>
 </tr>
@@ -81,55 +70,81 @@ currently:
 
 <br/>
 
-## 🎯 Currently Building In
-
 <div align="center">
 
-![CCNA](https://img.shields.io/badge/CCNA-Routing%20%7C%20Switching%20%7C%20VLANs-BA7517?style=for-the-badge&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Security](https://img.shields.io/badge/Network%20Security-ACLs%20%7C%20Segmentation-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Workflows-Claude%20%7C%20Automation-D85A30?style=for-the-badge&logo=openai&logoColor=white)
+![Cyber](https://img.shields.io/badge/Cybersecurity-Actively%20Learning-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Infrastructure-Building%20Fluency-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FullStack](https://img.shields.io/badge/Full%20Stack%20Dev-Production%20Ready-BA7517?style=for-the-badge&logo=react&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Automation-Coreegin-D85A30?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚀 Featured Work
+## 🚀 Things I've Built
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Coreegin
-AI-powered software agency I founded — websites, apps, custom SaaS, and automation for real businesses.
+### 🎮 CoreCade
+Gaming cafe management SaaS platform — bookings, session tracking, and billing built for gaming lounges to run their entire operation from one dashboard.
 <br/><br/>
-`React` `Supabase` `n8n` `AI Workflows`
+`React` `Supabase` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Enterprise Network Topology
-Multi-department network design & simulation — VLANs, OSPF routing, ACLs, DHCP, port security.
+### 🅿️ ParkEasy
+Android application for real-time parking spot discovery and reservation in dense urban areas, built for daily commuters.
 <br/><br/>
-`Cisco Packet Tracer` `OSPF` `VLAN Segmentation`
+`Android` `Kotlin` `Maps API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 Andheri
-Luxury perfume ecommerce platform with a custom "Glass & Amber" design system and scroll-driven GSAP storytelling.
+### 🧠 Aptitude Test Platform
+Web application for timed aptitude and skills assessments, with instant scoring, analytics dashboards, and category-wise performance breakdowns.
 <br/><br/>
-`React` `GSAP` `Vite`
+`React` `Node.js` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 PSE Scrim Bot
-Scrim management system for a 130,000+ member Discord community with a custom multi-modal registration flow.
+### 🌸 Luxury Perfume Ecommerce Platform
+Scroll-driven ecommerce experience with a custom design system, cinematic GSAP animations, and an interactive product exploration journey.
 <br/><br/>
-`Discord.js` `PostgreSQL`
+`React` `GSAP` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered CRM for Local Businesses
+Lightweight CRM with AI-assisted lead scoring and automated follow-ups, built for small businesses that need pipeline visibility without enterprise complexity.
+<br/><br/>
+`React` `Supabase` `n8n`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Smart Attendance & HR Automation
+Automated attendance and HR workflow system with facial-recognition check-in and auto-generated payroll reports.
+<br/><br/>
+`React` `Node.js` `Automation`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎯 PSE Scrim Management Bot + Web App
+Full scrim management ecosystem for a 130,000+ member gaming community — a Discord bot handling multi-page tournament registration, paired with a companion web app for standings, brackets, and match history.
+<br/><br/>
+`Discord.js` `PostgreSQL` `React`
 
 </td>
 </tr>
