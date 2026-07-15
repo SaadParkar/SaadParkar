@@ -1,96 +1,175 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:BA7517&height=200&section=header&text=Saad%20Parkar&fontSize=60&fontColor=F5EDE4&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CTO,%20Coreegin%20%7C%20Networking%20%26%20Cloud%20Security&descAlignY=58&descSize=18&descColor=D8853D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1A1A,50:BA7517,75:1A1A1A,100:0D1117&height=220&section=header&text=SAAD%20PARKAR&fontSize=65&fontColor=F5EDE4&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20Cybersecurity%20%2B%20Cloud%20%C3%97%20AI%20Builder&descAlignY=55&descSize=17&descColor=D8853D" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BA7517&center=true&vCenter=true&width=600&lines=Founder+%26+CTO+%40+Coreegin;Building+AI-Powered+Software+Products;Advancing+into+Cybersecurity+%2B+Cloud;Currently%3A+CCNA+%2B+AWS+Fundamentals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=750&lines=Founder+%26+CTO+%40+Coreegin;Shipping+AI-Powered+Software+at+Speed;Breaking+Into+Networking+%2B+Cybersecurity;Fusing+Full+Stack+Dev+with+System-Level+Security;CCNA+%2B+AWS+In+Progress+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/saadparkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:saadparkar@coreegin.com"><img src="https://img.shields.io/badge/Email-D8853D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://coreegin.com"><img src="https://img.shields.io/badge/Coreegin-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F5EDE4" /></a>
+<img src="https://komarev.com/ghpvc/?username=SaadParkar&style=for-the-badge&color=BA7517&label=PROFILE+VIEWS" />
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <br/>
 
+## `>` root@saadparkar:~$ whoami
+
 ```yaml
-whoami:
+identity:
   name: "Saad Parkar"
-  role: "Founder & CTO @ Coreegin"
-  focus: "AI-powered software, systems architecture, product delivery"
-  currently_learning: ["CCNA", "AWS Cloud Fundamentals", "Network Security"]
-  based_in: "Navi Mumbai, India"
-  status: "Building in public, one commit at a time"
+  callsign: "Founder & CTO @ Coreegin"
+  base: "Navi Mumbai, India"
+  mission: "Build fast with AI. Secure it like it matters. Scale it like it's permanent."
+
+stack_philosophy:
+  build: "React, Node, Supabase — ship product, not prototypes"
+  automate: "n8n + AI-assisted workflows — remove repetitive work at the source"
+  secure: "CCNA-in-progress mindset — design networks & systems that don't break"
+  scale: "AWS fundamentals — cloud-native from day one"
+
+currently:
+  - "Building AI-powered products at Coreegin"
+  - "Studying for CCNA — network topology, routing, ACLs, segmentation"
+  - "Learning AWS — EC2, S3, IAM, cloud architecture fundamentals"
+  - "Fusing dev + security into one discipline, not two separate tracks"
 ```
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 🧬 The Stack — Build × Secure × Automate
 
-- Founder & CTO of **Coreegin** — building AI-powered websites, apps, and automation systems end to end
-- Currently deep in **networking + cybersecurity fundamentals**, working toward **CCNA**
-- Exploring **AWS cloud infrastructure** as the next layer of the stack
-- Full stack developer by trade, systems thinker by obsession
-- Believer in shipping fast with AI-assisted workflows, then hardening everything with proper security fundamentals
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**⚡ Full Stack**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,figma&theme=dark"/>
+
+</td>
+<td align="center" width="25%">
+
+**🔐 Networking & Security**
+<br/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🎯 Currently Building In
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,postgres,figma,git,github,vscode,aws&theme=dark" />
+![CCNA](https://img.shields.io/badge/CCNA-Routing%20%7C%20Switching%20%7C%20VLANs-BA7517?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Security](https://img.shields.io/badge/Network%20Security-ACLs%20%7C%20Segmentation-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Workflows-Claude%20%7C%20Automation-D85A30?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🔐 Currently Building In
+## 🚀 Featured Work
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-![Networking](https://img.shields.io/badge/CCNA-In%20Progress-BA7517?style=for-the-badge&logo=cisco&logoColor=white)
-![Cloud](https://img.shields.io/badge/AWS-In%20Progress-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Security](https://img.shields.io/badge/Network%20Security-Learning-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&text_color=F5EDE4" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadParkar&theme=dark&hide_border=true&background=0D1117&ring=BA7517&fire=D8853D&currStreakLabel=F5EDE4" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SaadParkar&style=for-the-badge&color=BA7517&label=PROFILE+VIEWS" />
-
+### 🏢 Coreegin
+AI-powered software agency I founded — websites, apps, custom SaaS, and automation for real businesses.
 <br/><br/>
+`React` `Supabase` `n8n` `AI Workflows`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA7517,100:1A1A1A&height=100&section=footer" width="100%"/>
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Enterprise Network Topology
+Multi-department network design & simulation — VLANs, OSPF routing, ACLs, DHCP, port security.
+<br/><br/>
+`Cisco Packet Tracer` `OSPF` `VLAN Segmentation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Andheri
+Luxury perfume ecommerce platform with a custom "Glass & Amber" design system and scroll-driven GSAP storytelling.
+<br/><br/>
+`React` `GSAP` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 PSE Scrim Bot
+Scrim management system for a 130,000+ member Discord community with a custom multi-modal registration flow.
+<br/><br/>
+`Discord.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 The Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&text_color=F5EDE4"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadParkar&theme=dark&hide_border=true&background=0D1117&ring=BA7517&fire=D8853D&currStreakLabel=F5EDE4"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Grid
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
+
+### 💬 *"Build it fast. Secure it right. Scale it forever."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:BA7517,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
