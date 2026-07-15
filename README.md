@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:BA7517&height=220&section=header&text=SAAD%20PARKAR&fontSize=65&fontColor=F5EDE4&animation=fadeIn&desc=Founder%20%26%20CTO%2C%20Coreegin%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%2B%20Cloud&descSize=16&descColor=D8853D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1A1A,50:BA7517,75:1A1A1A,100:0D1117&height=220&section=header&text=SAAD%20PARKAR&fontSize=65&fontColor=F5EDE4&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20Cybersecurity%20%2B%20Cloud%20%C3%97%20AI%20Builder&descAlignY=55&descSize=17&descColor=D8853D" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=780&lines=Founder+%26+CTO+%40+Coreegin;Full+Stack+Developer+-+Ship+First%2C+Iterate+Fast;Deep+Diving+into+Cybersecurity;Building+Cloud+Fluency+for+What%27s+Next;Product+%2B+Security+%2B+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=750&lines=Founder+%26+CTO+%40+Coreegin;Shipping+AI-Powered+Software+at+Speed;Breaking+Into+Networking+%2B+Cybersecurity;Fusing+Full+Stack+Dev+with+System-Level+Security;CCNA+%2B+AWS+In+Progress+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,53 +24,56 @@
 ```yaml
 identity:
   name: "Saad Parkar"
-  role: "Founder & CTO @ Coreegin"
+  callsign: "Founder & CTO @ Coreegin"
   base: "Navi Mumbai, India"
+  mission: "Build fast with AI. Secure it like it matters. Scale it like it's permanent."
 
-core_focus:
-  - "Founder & CTO - building and shipping AI-powered software at Coreegin"
-  - "Full Stack Developer - production-grade apps, not prototypes"
-  - "Cybersecurity - deep-diving into network security, threat modeling, defense fundamentals"
-  - "Cloud - building fluency across cloud infrastructure and deployment"
+stack_philosophy:
+  build: "React, Node, Supabase — ship product, not prototypes"
+  automate: "n8n + AI-assisted workflows — remove repetitive work at the source"
+  secure: "CCNA-in-progress mindset — design networks & systems that don't break"
+  scale: "AWS fundamentals — cloud-native from day one"
 
-mission: "Build products that work. Secure them like they matter. Never stop learning the layer underneath."
+currently:
+  - "Building AI-powered products at Coreegin"
+  - "Studying for CCNA — network topology, routing, ACLs, segmentation"
+  - "Learning AWS — EC2, S3, IAM, cloud architecture fundamentals"
+  - "Fusing dev + security into one discipline, not two separate tracks"
 ```
 
 <br/>
 
-## `>` root@saadparkar:~$ npm run build
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=D8853D&center=true&vCenter=true&width=650&lines=%24+installing+dependencies...;%24+compiling+components...;%24+running+security+checks...;%E2%9C%93+build+successful+-+0+vulnerabilities+found" alt="Build Typing SVG" />
-</div>
-
-<br/>
-
-## 🧬 Tech Stack
+## 🧬 The Stack — Build × Secure × Automate
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**⚡ Full Stack Development**
-<br/><br/>
+**⚡ Full Stack**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**🗄️ Backend, Data & Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,figma,git,github,vscode&theme=dark"/>
+**🗄️ Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,figma&theme=dark"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**🔐 Security & Cloud**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+**🔐 Networking & Security**
+<br/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
 </td>
 </tr>
@@ -78,81 +81,55 @@ mission: "Build products that work. Secure them like they matter. Never stop lea
 
 <br/>
 
+## 🎯 Currently Building In
+
 <div align="center">
 
-![Cyber](https://img.shields.io/badge/Cybersecurity-Actively%20Learning-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Infrastructure-Building%20Fluency-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full%20Stack%20Dev-Production%20Ready-BA7517?style=for-the-badge&logo=react&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Automation-Coreegin-D85A30?style=for-the-badge&logo=openai&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-Routing%20%7C%20Switching%20%7C%20VLANs-BA7517?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Security](https://img.shields.io/badge/Network%20Security-ACLs%20%7C%20Segmentation-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Workflows-Claude%20%7C%20Automation-D85A30?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚀 Things I've Built
+## 🚀 Featured Work
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 CoreCade
-Gaming cafe management SaaS platform — bookings, session tracking, and billing built for gaming lounges to run their entire operation from one dashboard.
+### 🏢 Coreegin
+AI-powered software agency I founded — websites, apps, custom SaaS, and automation for real businesses.
 <br/><br/>
-`React` `Supabase` `Node.js`
+`React` `Supabase` `n8n` `AI Workflows`
 
 </td>
 <td width="50%" valign="top">
 
-### 🅿️ ParkEasy
-Android application for real-time parking spot discovery and reservation in dense urban areas, built for daily commuters.
+### 🌐 Enterprise Network Topology
+Multi-department network design & simulation — VLANs, OSPF routing, ACLs, DHCP, port security.
 <br/><br/>
-`Android` `Kotlin` `Maps API`
+`Cisco Packet Tracer` `OSPF` `VLAN Segmentation`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Aptitude Test Platform
-Web application for timed aptitude and skills assessments, with instant scoring, analytics dashboards, and category-wise performance breakdowns.
-<br/><br/>
-`React` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 Luxury Perfume Ecommerce Platform
-Scroll-driven ecommerce experience with a custom design system, cinematic GSAP animations, and an interactive product exploration journey.
+### 🌸 Andheri
+Luxury perfume ecommerce platform with a custom "Glass & Amber" design system and scroll-driven GSAP storytelling.
 <br/><br/>
 `React` `GSAP` `Vite`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered CRM for Local Businesses
-Lightweight CRM with AI-assisted lead scoring and automated follow-ups, built for small businesses that need pipeline visibility without enterprise complexity.
+### 🎮 PSE Scrim Bot
+Scrim management system for a 130,000+ member Discord community with a custom multi-modal registration flow.
 <br/><br/>
-`React` `Supabase` `n8n`
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Smart Attendance & HR Automation
-Automated attendance and HR workflow system with facial-recognition check-in and auto-generated payroll reports.
-<br/><br/>
-`React` `Node.js` `Automation`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎯 PSE Scrim Management Bot + Web App
-Full scrim management ecosystem for a 130,000+ member gaming community — a Discord bot handling multi-page tournament registration, paired with a companion web app for standings, brackets, and match history.
-<br/><br/>
-`Discord.js` `PostgreSQL` `React`
+`Discord.js` `PostgreSQL`
 
 </td>
 </tr>
@@ -164,7 +141,7 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&text_color=F5EDE4"/>
 
 <br/>
@@ -173,16 +150,8 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
-</div>
-
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadParkar&theme=react-dark&bg_color=0D1117&color=D8853D&line=BA7517&point=F5EDE4&hide_border=true"/>
 </div>
 
 <br/>
@@ -201,6 +170,6 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 ### 💬 *"Build it fast. Secure it right. Scale it forever."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA7517,100:1A1A1A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:BA7517,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
