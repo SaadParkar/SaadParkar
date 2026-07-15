@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1A1A1A,50:BA7517,75:1A1A1A,100:0D1117&height=230&section=header&text=SAAD%20PARKAR&fontSize=68&fontColor=F5EDE4&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20CTO%2C%20Coreegin%20%C3%97%20Full%20Stack%20Developer%20%C3%97%20Cybersecurity%20%2B%20Cloud&descAlignY=57&descSize=16&descColor=D8853D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:BA7517&height=230&section=header&text=SAAD%20PARKAR&fontSize=68&fontColor=F5EDE4&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CTO%2C%20Coreegin%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%2B%20Cloud&descAlignY=58&descSize=16&descColor=D8853D" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=780&lines=Founder+%26+CTO+%40+Coreegin;Full+Stack+Developer+%E2%80%94+Ship+First%2C+Iterate+Fast;Deep+Diving+into+Cybersecurity;Building+Cloud+Fluency+for+What's+Next;Product+%2B+Security+%2B+Infrastructure+%3D+One+Skillset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=780&lines=Founder+%26+CTO+%40+Coreegin;Full+Stack+Developer+-+Ship+First%2C+Iterate+Fast;Deep+Diving+into+Cybersecurity;Building+Cloud+Fluency+for+What%27s+Next;Product+%2B+Security+%2B+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,10 +28,10 @@ identity:
   base: "Navi Mumbai, India"
 
 core_focus:
-  - "Founder & CTO — building and shipping AI-powered software at Coreegin"
-  - "Full Stack Developer — production-grade apps, not prototypes"
-  - "Cybersecurity — deep-diving into network security, threat modeling, defense fundamentals"
-  - "Cloud — building fluency across cloud infrastructure and deployment"
+  - "Founder & CTO - building and shipping AI-powered software at Coreegin"
+  - "Full Stack Developer - production-grade apps, not prototypes"
+  - "Cybersecurity - deep-diving into network security, threat modeling, defense fundamentals"
+  - "Cloud - building fluency across cloud infrastructure and deployment"
 
 mission: "Build products that work. Secure them like they matter. Never stop learning the layer underneath."
 ```
@@ -171,6 +171,14 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 <br/>
 
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadParkar&theme=react-dark&bg_color=0D1117&color=D8853D&line=BA7517&point=F5EDE4&hide_border=true"/>
+</div>
+
+<br/>
+
 ## 🐍 Contribution Grid
 
 <div align="center">
@@ -185,6 +193,6 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 ### 💬 *"Build it fast. Secure it right. Scale it forever."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:BA7517,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA7517,100:1A1A1A&height=100&section=footer" width="100%"/>
 
 </div>
