@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:BA7517&height=230&section=header&text=SAAD%20PARKAR&fontSize=68&fontColor=F5EDE4&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CTO%2C%20Coreegin%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%2B%20Cloud&descAlignY=58&descSize=16&descColor=D8853D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:BA7517&height=220&section=header&text=SAAD%20PARKAR&fontSize=65&fontColor=F5EDE4&animation=fadeIn&desc=Founder%20%26%20CTO%2C%20Coreegin%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%2B%20Cloud&descSize=16&descColor=D8853D" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=BA7517&center=true&vCenter=true&width=780&lines=Founder+%26+CTO+%40+Coreegin;Full+Stack+Developer+-+Ship+First%2C+Iterate+Fast;Deep+Diving+into+Cybersecurity;Building+Cloud+Fluency+for+What%27s+Next;Product+%2B+Security+%2B+Infrastructure" alt="Typing SVG" />
@@ -35,6 +35,14 @@ core_focus:
 
 mission: "Build products that work. Secure them like they matter. Never stop learning the layer underneath."
 ```
+
+<br/>
+
+## `>` root@saadparkar:~$ npm run build
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=D8853D&center=true&vCenter=true&width=650&lines=%24+installing+dependencies...;%24+compiling+components...;%24+running+security+checks...;%E2%9C%93+build+successful+-+0+vulnerabilities+found" alt="Build Typing SVG" />
+</div>
 
 <br/>
 
@@ -156,7 +164,7 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&icon_color=D8853D&text_color=F5EDE4"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BA7517&text_color=F5EDE4"/>
 
 <br/>
@@ -165,7 +173,7 @@ Full scrim management ecosystem for a 130,000+ member gaming community — a Dis
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
