@@ -19,6 +19,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=600&color=D8853D&center=true&vCenter=true&width=700&lines=%F0%9F%9B%92+Building+Ecommerce+%2B+SaaS+at+Coreegin;%F0%9F%A4%96+Shipping+AI+Automation+Agents;%F0%9F%94%90+Learning+Network+Security+Daily;%F0%9F%8E%A8+Obsessed+with+Motion+%26+UI%2FUX" alt="Sub Typing SVG" />
+</div>
+
+<br/>
+
 ## `>` root@saadparkar:~$ whoami
 
 ```yaml
@@ -61,21 +67,28 @@ currently:
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **⚡ Full Stack**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **🗄️ Backend & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode&theme=dark"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+
+**🎨 Design & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,framer,docker&theme=dark"/>
+
+</td>
+<td align="center" width="20%">
 
 **🔐 Networking & Security**
 <br/>
@@ -83,7 +96,7 @@ currently:
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **☁️ Cloud**
 <br/>
@@ -104,6 +117,8 @@ currently:
 ![Security](https://img.shields.io/badge/Network%20Security-ACLs%20%7C%20Segmentation-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![Cyber](https://img.shields.io/badge/Cybersecurity-Actively%20Learning-E24B4A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Workflows-Claude%20%7C%20Automation-D85A30?style=for-the-badge&logo=openai&logoColor=white)
+![UIUX](https://img.shields.io/badge/UI%2FUX-Motion%20%7C%20Design%20Systems-9B59B6?style=for-the-badge&logo=figma&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-Ecommerce%20%7C%20Dashboards-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -133,10 +148,10 @@ Multi-department network design & simulation — VLANs, OSPF routing, ACLs, DHCP
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 Andheri
-Luxury perfume ecommerce platform with a custom "Glass & Amber" design system — scroll-driven GSAP storytelling and an interactive product exploration journey.
+### 🛍️ Ecommerce
+Luxury perfume ecommerce platform with a custom "Glass & Amber" design system — scroll-driven GSAP storytelling, animated cart, and an immersive product exploration journey.
 <br/><br/>
-`React` `GSAP` `Vite`
+`React` `GSAP` `Vite` `Zustand`
 
 </td>
 <td width="50%" valign="top">
@@ -181,6 +196,24 @@ Lightweight CRM with AI-assisted lead scoring and automated follow-ups, built fo
 Automated attendance and HR workflow system with facial-recognition check-in and auto-generated payroll reports.
 <br/><br/>
 `React` `Node.js` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Automation Agent Suite
+Multi-agent AI system handling lead qualification, support chat, and workflow automation end-to-end — connects LLM tool-calling loops to real business pipelines so nothing needs a human in the loop.
+<br/><br/>
+`n8n` `Claude API` `RAG` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 AI-Powered SaaS Web App
+Full stack SaaS web app with an AI copilot baked into the core dashboard — auth, subscription billing, and an AI assistant that acts on user data instead of just chatting about it.
+<br/><br/>
+`React` `Node.js` `Supabase` `AI Integration`
 
 </td>
 </tr>
