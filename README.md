@@ -1,431 +1,263 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,15:302B63,35:24243e,50:1a0033,65:0d1b2a,85:001a1a,100:0F0C29&height=290&section=header&text=SAAD%20PARKAR&fontSize=78&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3E%3E%20FOUNDER%20%2F%20CTO%20%40%20COREEGIN%20%E2%80%94%20FULL%20STACK%20%2B%20OFFENSIVE%20SECURITY&descAlignY=55&descSize=17&descColor=FF00E4" width="100%"/>
 
-<!--                         SAAD PARKAR                                 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&duration=2000&pause=400&color=00F5FF,FF00E4,39FF14,FFD700&center=true&vCenter=true&width=850&lines=root%40saadparkar%3A~%23+whoami;%3E+founder+%2F%2F+builder+%2F%2F+breaker+%2F%2F+defender;%3E+ships+production+AI+systems+at+war-speed;%3E+full-stack+dev+fused+with+network+security;%3E+CCNA+%7C+AWS+%7C+ethical+hacking+%7C+in+progress;%3E+access_level%3A+ROOT+%7C+status%3A+ARMED" alt="Typing SVG"/>
 
-<!--                    CYBER // SYSTEMS // AI                           -->
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<a href="https://linkedin.com/in/saadparkar"><img src="https://img.shields.io/badge/LINKEDIN-0A0A1F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A1F"/></a>
+<a href="mailto:saadparkar@coreegin.com"><img src="https://img.shields.io/badge/SECURE_CHANNEL-0A0A1F?style=for-the-badge&logo=protonmail&logoColor=FF00E4&labelColor=0A0A1F"/></a>
+<a href="https://coreegin.com"><img src="https://img.shields.io/badge/COREEGIN.COM-0A0A1F?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0A0A1F"/></a>
+<img src="https://img.shields.io/badge/CLEARANCE-ROOT-FF0044?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://komarev.com/ghpvc/?username=SaadParkar&style=for-the-badge&color=0A0A1F&label=INTRUSIONS+LOGGED"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,35:07151A,65:00FF9C,100:030508&height=230&section=header&text=SAAD%20PARKAR&fontSize=68&fontColor=F2FFFA&fontAlignY=34&desc=FOUNDER%20%26%20CEO%20%E2%80%A2%20COREEGIN&descAlignY=57&descSize=18&descColor=00FF9C&animation=twinkling"/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1700&pause=450&color=00FF9C&center=true&vCenter=true&width=920&lines=%24+initialize+saad.parkar;%3E+identity+verified;%3E+founder+%26+CEO+%40+Coreegin;%3E+full-stack+systems+builder;%3E+cybersecurity+%2B+networking;%3E+cloud+%2B+AI+automation;%3E+building+the+future+one+system+at+a+time"/></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/◉_CORE_SYSTEM-ONLINE-00FF9C?style=for-the-badge&labelColor=030508">
-<img src="https://img.shields.io/badge/◈_SECURITY-ARMED-00E5FF?style=for-the-badge&labelColor=030508">
-<img src="https://img.shields.io/badge/△_AI-ACTIVE-BB66FF?style=for-the-badge&labelColor=030508">
-
-<br><br>
-
-<a href="https://linkedin.com/in/saadparkar"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=flat-square&logo=linkedin&logoColor=030508"/></a><a href="mailto:saadparkar@coreegin.com"><img src="https://img.shields.io/badge/CONTACT-00E5FF?style=flat-square&logo=gmail&logoColor=030508"/></a><a href="https://coreegin.com"><img src="https://img.shields.io/badge/COREEGIN-BB66FF?style=flat-square&logo=vercel&logoColor=white"/></a><img src="https://komarev.com/ghpvc/?username=SaadParkar&style=flat-square&color=00FF9C&label=SIGNALS"/>
+<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
 
-<!-- ═══════════════════════ HERO CONSOLE ═══════════════════════════════ -->
+<br/>
 
-<div align="center">
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> `root@saadparkar:~# ./boot_sequence.sh`
 
-╭──────────────────────────────────────────────────────────────────────────────╮
-│  SAAD.OS  /  COMMAND CONSOLE                                      v2026.08  │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  > connection established                                                   │
-│  > identity: SAAD PARKAR                                                    │
-│  > clearance: FOUNDER / CEO                                                 │
-│  > organization: COREEGIN                                                   │
-│                                                                              │
-│  BUILD        ████████████████████████████████████████  ONLINE              │
-│  SECURITY     ███████████████████████████████████░░░░░  ACTIVE              │
-│  CLOUD        █████████████████████████████████░░░░░░░  ACTIVE              │
-│  AI           █████████████████████████████████████░░░  ACTIVE              │
-│                                                                              │
-│  [ SOFTWARE ]  [ SYSTEMS ]  [ NETWORKS ]  [ SECURITY ]  [ AI ]             │
-│                                                                              │
-│  > this is not a portfolio.                                                 │
-│  > this is a map of what I build.                                           │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+```ansi
+[  0.0000000 ] Booting SAAD_OS v4.2.0 ...............................  [ OK ]
+[  0.0412221 ] Mounting /dev/fullstack ..............................  [ OK ]
+[  0.0891004 ] Mounting /dev/network-security .......................  [ OK ]
+[  0.1233310 ] Mounting /dev/cloud-infra ............................  [ OK ]
+[  0.1877654 ] Loading kernel module: coreegin.ko ...................  [ OK ]
+[  0.2401992 ] Establishing encrypted uplink ........................  [ OK ]
+[  0.3120087 ] Scanning attack surface ..............................  [ 0 EXPOSED ]
+[  0.3982211 ] Initializing threat model .............................  [ ARMED ]
+[  0.4551002 ] Deploying AI subsystems ...............................  [ ONLINE ]
 
-</div>
+██████████████████████████████████████████████████ 100%   SYSTEM READY
+```
 
-<br>
+```json
+{
+  "identity"   : "Saad Parkar",
+  "callsign"   : "root@saadparkar",
+  "role"       : "Founder & CTO — Coreegin",
+  "location"   : "Navi Mumbai, IN [22.19°N, 72.98°E]",
+  "clearance"  : "L5 :: full-stack + offensive-security hybrid",
+  "mission"    : "build fast with AI :: secure it like it matters :: scale it like it's permanent",
+  "loadout"    : ["React", "Node.js", "Supabase", "AWS", "Cisco IOS", "Wireshark", "n8n", "Claude API"],
+  "in_progress": ["CCNA — routing/switching/VLANs/ACLs", "AWS — EC2/S3/IAM", "Ethical Hacking — recon → exploitation"],
+  "status"     : "ONLINE",
+  "threat_lvl" : "██████████ 100% — builds fast, breaks faster, patches faster than that"
+}
+```
 
-01 / IDENTITY
+<br/>
 
-<div align="center">
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Dual-Class Build — `dev.exe` × `sec.exe`
 
-I BUILD SYSTEMS, NOT JUST SOFTWARE.
-
-Founder & CEO @ CoreeginFull Stack Developer · Cybersecurity Enthusiast · Cloud & Networking · AI Builder
-
-<br>
-
-PRODUCT → CODE → INFRASTRUCTURE → NETWORK → SECURITY → AUTOMATION
-
-</div>
-
-profile:
-  name: "Saad Parkar"
-  title: "Founder & CEO @ Coreegin"
-  focus:
-    - Full Stack Development
-    - Cybersecurity
-    - Networking
-    - Cloud Infrastructure
-    - AI Systems
-    - Automation
-    - SaaS
-
-operating_principles:
-  build: "real products over endless prototypes"
-  secure: "understand the system before trusting it"
-  automate: "remove repetitive work"
-  learn: "go one layer deeper"
-  ship: "execution beats perfection"
-
-02 / THE CORE
-
-<div align="center">
-
-                         ┌───────────────────┐
-                         │       SAAD        │
-                         │   CORE ENGINE     │
-                         └─────────┬─────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-        ┌───────────┐        ┌───────────┐        ┌───────────┐
-        │   BUILD   │        │  SECURE   │        │ AUTOMATE  │
-        └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
-              │                    │                    │
-              ▼                    ▼                    ▼
-        SOFTWARE             NETWORKS              AI SYSTEMS
-        SaaS / APIs          ACL / VLAN             AGENTS / RAG
-        React / Node         OSPF / Traffic         Workflows
-              │                    │                    │
-              └────────────────────┼────────────────────┘
-                                   ▼
-                             ┌─────────────┐
-                             │   SCALE     │
-                             └─────────────┘
-
-</div>
-
-03 / LOADOUT
-
-<div align="center">
-
-// APPLICATION LAYER
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,vite&theme=dark"/>
-
-// DATA + TOOLING
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,git,github,vscode&theme=dark"/>
-
-// INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,aws&theme=dark"/>
-
-// DESIGN + AUTOMATION
-
-<img src="https://skillicons.dev/icons?i=figma,framer,n8n,python&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/CISCO-NETWORKING-00E5FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=030508"/>
-<img src="https://img.shields.io/badge/WIRESHARK-TRAFFIC-00FF9C?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=030508"/>
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-ACTIVE-BB66FF?style=for-the-badge&labelColor=030508"/>
-
-</div>
-
-04 / ACTIVE OPERATIONS
-
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  OPERATION 01  //  CYBERSECURITY                                            │
-│  └─ Network security · ACLs · segmentation · defense fundamentals            │
-│                                                                              │
-│  OPERATION 02  //  NETWORKING                                               │
-│  └─ CCNA · routing · switching · VLANs · OSPF                              │
-│                                                                              │
-│  OPERATION 03  //  CLOUD                                                    │
-│  └─ AWS · EC2 · S3 · IAM · infrastructure fundamentals                     │
-│                                                                              │
-│  OPERATION 04  //  ARTIFICIAL INTELLIGENCE                                  │
-│  └─ AI agents · RAG · tool calling · workflow automation                   │
-│                                                                              │
-│  OPERATION 05  //  SOFTWARE                                                  │
-│  └─ Full-stack SaaS · dashboards · APIs · production systems                │
-│                                                                              │
-│  OPERATION 06  //  COREEGIN                                                 │
-│  └─ Building software, automation and AI systems for real businesses        │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-
-05 / BUILT SYSTEMS
-
-<div align="center">
-
-THE LAB
-
-</div>
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
-◈ COREEGIN
+### 💠 `CLASS_01 :: DEVELOPER`
+Full-stack engineer shipping production-grade, revenue-generating software — not demos, not prototypes. Founder-level ownership from architecture to deploy.
 
-AI-powered software company
-
-Websites, mobile applications, custom SaaS, AI automation and software systems.
-
-React Supabase n8n AI
+`React` `Node.js` `Supabase` `PostgreSQL`
+`AI Agents` `Automation Pipelines`
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
-◈ ENTERPRISE NETWORK
+### 🔺 `CLASS_02 :: SECURITY`
+Network + offensive security in active training — routing, segmentation, ACL hardening, traffic analysis, and exploitation fundamentals, applied straight back into how systems get built.
 
-Network architecture & simulation
-
-Multi-department infrastructure with VLANs, OSPF, ACLs, DHCP and port security.
-
-Cisco OSPF VLAN ACL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ LUXURY ECOMMERCE
-
-Immersive ecommerce platform with GSAP storytelling, animated cart and custom design system.
-
-React GSAP Vite Zustand
-
-</td>
-<td width="50%" valign="top">
-
-◈ CORECADE
-
-Gaming cafe management SaaS for bookings, sessions, billing and operations.
-
-React Supabase Node.js
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ PARKEASY
-
-Android application for real-time parking discovery and reservation.
-
-Android Kotlin Maps API
-
-</td>
-<td width="50%" valign="top">
-
-◈ APTITUDE ENGINE
-
-Timed assessment platform with scoring, analytics and performance breakdowns.
-
-React Node.js PostgreSQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ AI CRM
-
-AI-assisted lead scoring and automated follow-up workflows for local businesses.
-
-React Supabase n8n
-
-</td>
-<td width="50%" valign="top">
-
-◈ AI AGENT SUITE
-
-Multi-agent automation connecting AI models to real business workflows.
-
-n8n Claude API RAG
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ AI SAAS
-
-Full-stack SaaS platform with an AI copilot operating on application data.
-
-React Node.js Supabase AI
-
-</td>
-<td width="50%" valign="top">
-
-◈ SCRIM ENGINE
-
-Discord + web ecosystem built for a 130,000+ member gaming community.
-
-Discord.js PostgreSQL React
+`CCNA` `AWS` `Wireshark` `Ethical Hacking`
 
 </td>
 </tr>
 </table>
 
-06 / HOW I THINK
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=400&color=00F5FF,FF00E4&center=true&vCenter=true&width=750&lines=%24+two+disciplines.+one+operator.;%24+build+the+system+%E2%86%92+then+break+it+%E2%86%92+then+harden+it;%24+most+devs+don't+think+like+attackers.+i+do." alt="fusion"/>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Payload — Build × Secure × Automate
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+**`[ full_stack ]`**
+<br/>🔵
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
+
+</td>
+<td align="center" width="20%">
+
+**`[ backend_data ]`**
+<br/>🟣
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode&theme=dark"/>
+
+</td>
+<td align="center" width="20%">
+
+**`[ design_auto ]`**
+<br/>🟡
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,framer,docker&theme=dark"/>
+
+</td>
+<td align="center" width="20%">
+
+**`[ net_sec ]`**
+<br/>🔴
+<br/>
+<img src="https://img.shields.io/badge/Cisco-0A0A1F?style=flat-square&logo=cisco&logoColor=00F5FF"/><br/>
+<img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=flat-square&logo=wireshark&logoColor=00F5FF"/><br/>
+<img src="https://img.shields.io/badge/Kali-0A0A1F?style=flat-square&logo=kalilinux&logoColor=00F5FF"/>
+
+</td>
+<td align="center" width="20%">
+
+**`[ cloud ]`**
+<br/>🟠
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Live Processes — currently running
 
 <div align="center">
 
-                    DON'T STOP AT THE INTERFACE.
-                              │
-                              ▼
-                    ┌─────────────────┐
-                    │   APPLICATION   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     BACKEND     │
-                    └────────┬────────┘
-                             │
-                 ┌───────────┼───────────┐
-                 ▼           ▼           ▼
-             DATABASE       APIs        AI
-                 │           │           │
-                 └───────────┼───────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │ INFRASTRUCTURE  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    NETWORK      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    SECURITY     │
-                    └─────────────────┘
-
-                  UNDERSTAND THE WHOLE SYSTEM.
+![CCNA](https://img.shields.io/badge/CCNA-Routing%20%7C%20Switching%20%7C%20VLANs-0A0A1F?style=for-the-badge&logo=cisco&logoColor=00F5FF)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM-0A0A1F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Security](https://img.shields.io/badge/Network%20Security-ACLs%20%7C%20Segmentation-0A0A1F?style=for-the-badge&logo=shieldsdotio&logoColor=FF0044)
+![EthicalHacking](https://img.shields.io/badge/Ethical%20Hacking-Recon%20%7C%20Exploitation-0A0A1F?style=for-the-badge&logo=hackthebox&logoColor=39FF14)
+![AI](https://img.shields.io/badge/AI%20Systems-Claude%20%7C%20Agents%20%7C%20Automation-0A0A1F?style=for-the-badge&logo=openai&logoColor=FF00E4)
+![UIUX](https://img.shields.io/badge/UI%2FUX-Motion%20%7C%20Design%20Systems-0A0A1F?style=for-the-badge&logo=figma&logoColor=A259FF)
+![SaaS](https://img.shields.io/badge/SaaS-Platforms%20%7C%20Dashboards-0A0A1F?style=for-the-badge&logo=vercel&logoColor=FFD700)
 
 </div>
 
-07 / TERMINAL
+<br/>
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"/> Exploits Deployed — `ls -la ./builds --sort=impact`
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `[01]` 💠 Coreegin
+AI-powered engineering studio I founded — websites, apps, custom SaaS & automation shipped for real businesses, not portfolio filler.
+<br/><br/>
+`React` `Supabase` `n8n` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### `[02]` 🟣 Campus OS
+Fraud-proof digital attendance PWA — rotating HMAC-signed QR codes, device fingerprinting, offline-first architecture, dual student/teacher portals.
+<br/><br/>
+`React` `Vite` `Supabase` `HMAC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[03]` 🔴 Enterprise Network Topology
+Multi-department network design & live simulation — VLAN segmentation, OSPF routing, ACLs, DHCP, hardened port security.
+<br/><br/>
+`Packet Tracer` `OSPF` `VLANs`
+
+</td>
+<td width="50%" valign="top">
+
+### `[04]` 🟠 CoreCade
+Gaming cafe management SaaS — bookings, session tracking, and billing, built for lounges to run full operations from one dashboard.
+<br/><br/>
+`React` `Supabase` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[05]` 🟡 Luxury Ecommerce
+"Glass & Amber" scroll-driven perfume storefront — GSAP storytelling, animated cart, immersive product exploration journey.
+<br/><br/>
+`React` `GSAP` `Vite` `Zustand`
+
+</td>
+<td width="50%" valign="top">
+
+### `[06]` 🟢 AI Automation Agent Suite
+Multi-agent system for lead qualification, support chat & workflow ops — LLM tool-calling wired straight into business pipelines.
+<br/><br/>
+`n8n` `Claude API` `RAG`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### `[07]` 🔵 PSE Scrim Management Bot + Web App
+Full tournament ecosystem for a 130,000+ member gaming community — Discord bot handling multi-page registration, paired with a companion web app for standings, brackets, and match history.
+<br/><br/>
+`Discord.js` `PostgreSQL` `React`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"/> System Metrics
 
 <div align="center">
 
-╭──────────────────────────────────────────────────────────────────────────╮
-│ root@saadparkar:~$ systemctl status founder                              │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│ ● founder.service                                                        │
-│                                                                          │
-│   ROLE        :: Founder & CEO @ Coreegin                               │
-│   STATUS      :: ACTIVE                                                  │
-│   MODE        :: BUILD                                                   │
-│   STACK       :: FULL STACK / CLOUD / AI / SECURITY                      │
-│   NETWORK     :: LEARNING + BUILDING                                     │
-│   SECURITY    :: LEARNING + BUILDING                                     │
-│                                                                          │
-│   ├── build real things                                                  │
-│   ├── break down complex systems                                         │
-│   ├── automate repetitive work                                           │
-│   └── keep going                                                         │
-│                                                                          │
-│   uptime:  ████████████████████████████████████████████  RUNNING         │
-│                                                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A1F&title_color=00F5FF&icon_color=FF00E4&text_color=F5EDE4&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=radical&hide_border=true&bg_color=0A0A1F&title_color=00F5FF&text_color=F5EDE4"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadParkar&theme=radical&hide_border=true&background=0A0A1F&ring=FF00E4&fire=00F5FF&currStreakLabel=F5EDE4"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
-08 / TELEMETRY
+<br/>
+
+## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> `> tail -f activity.log`
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&hide_border=true&bg_color=030508&title_color=00FF9C&icon_color=00E5FF&text_color=E8FFF5&include_all_commits=true&count_private=true"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&hide_border=true&bg_color=030508&title_color=00FF9C&text_color=E8FFF5"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadParkar&theme=dark&hide_border=true&background=030508&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadParkar&theme=neon&bg_color=0A0A1F&color=00F5FF&line=FF00E4&point=FFD700&hide_border=true"/>
 </div>
 
-09 / SIGNAL GRAPH
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadParkar&bg_color=030508&color=00FF9C&line=00E5FF&point=FFFFFF&hide_border=true"/>
+### `> "build it fast :: secure it right :: scale it forever"` <span>█</span>
 
-</div>
+<sub>⚡ this profile is being watched. so is everything else. ⚡</sub>
 
-10 / CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-11 / ACCESS
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    WANT TO BUILD SOMETHING?                         ║
-║                                                                      ║
-║                    [ CONNECT WITH SAAD ]                             ║
-║                                                                      ║
-║     LINKEDIN  →  linkedin.com/in/saadparkar                         ║
-║     COREEGIN  →  coreegin.com                                        ║
-║     EMAIL     →  saadparkar@coreegin.com                             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<br>
-
-<a href="https://linkedin.com/in/saadparkar">
-<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=030508"/>
-</a>
-
-<a href="https://coreegin.com">
-<img src="https://img.shields.io/badge/ENTER-COREEGIN-00E5FF?style=for-the-badge&logo=vercel&logoColor=030508"/>
-</a>
-
-</div>
-
-<div align="center">
-
-──────────────────────────────────────────────────────────────────────────────
-
-             BUILD WHAT MATTERS.
-             UNDERSTAND WHAT YOU BUILD.
-             SECURE WHAT YOU SHIP.
-
-                         — SAAD PARKAR
-
-──────────────────────────────────────────────────────────────────────────────
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,45:07151A,100:030508&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:1a0033,100:0F0C29&height=110&section=footer" width="100%"/>
 
 </div>
