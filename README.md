@@ -214,25 +214,6 @@ Full tournament ecosystem for a 130,000+ member gaming community — Discord bot
 
 <br/>
 
-## 📊 System Metrics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadParkar&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A1F&title_color=00F5FF&icon_color=FF00E4&text_color=F5EDE4&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadParkar&layout=compact&theme=radical&hide_border=true&bg_color=0A0A1F&title_color=00F5FF&text_color=F5EDE4"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadParkar&theme=radical&hide_border=true&background=0A0A1F&ring=FF00E4&fire=00F5FF&currStreakLabel=F5EDE4"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaadParkar&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br/>
-
 ## 📡 `> tail -f activity.log`
 
 <div align="center">
