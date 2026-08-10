@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,15:302B63,35:24243e,50:1a0033,65:0d1b2a,85:001a1a,100:0F0C29&height=290&section=header&text=SAAD%20PARKAR&fontSize=78&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3E%3E%20FOUNDER%20%2F%20CTO%20%40%20COREEGIN%20%E2%80%94%20FULL%20STACK%20%2B%20OFFENSIVE%20SECURITY&descAlignY=55&descSize=17&descColor=FF00E4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&duration=2000&pause=400&color=00F5FF,FF00E4,39FF14,FFD700&center=true&vCenter=true&width=850&lines=root%40saadparkar%3A~%23+whoami;%3E+founder+%2F%2F+builder+%2F%2F+breaker+%2F%2F+defender;%3E+ships+production+AI+systems+at+war-speed;%3E+full-stack+dev+fused+with+network+security;%3E+CCNA+%7C+AWS+%7C+ethical+hacking+%7C+in+progress;%3E+access_level%3A+ROOT+%7C+status%3A+ARMED" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=23&duration=2000&pause=400&color=00F5FF,FF00E4,39FF14,FFD700&center=true&vCenter=true&width=850&lines=root%40saadparkar%3A~%23+whoami;%3E+founder+%2F%2F+builder+%2F%2F+breaker+%2F%2F+defender;%3E+ships+production+AI+systems+at+war-speed;%3E+full-stack+dev+fused+with+network+security;%3E+CCNA+%7C+AWS+%7C+ethical+hacking+%7C+in+progress;%3E+access_level%3A+ROOT+%7C+status%3A+ARMED" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,17 +12,13 @@
 <img src="https://img.shields.io/badge/CLEARANCE-ROOT-FF0044?style=for-the-badge&labelColor=0A0A1F"/>
 <img src="https://komarev.com/ghpvc/?username=SaadParkar&style=for-the-badge&color=0A0A1F&label=INTRUSIONS+LOGGED"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E4,100:39FF14&height=3&section=header" width="100%"/>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> `root@saadparkar:~# ./boot_sequence.sh`
+## ⚡ `root@saadparkar:~# ./boot_sequence.sh`
 
 ```ansi
 [  0.0000000 ] Booting SAAD_OS v4.2.0 ...............................  [ OK ]
@@ -55,7 +51,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Dual-Class Build — `dev.exe` × `sec.exe`
+## 🎯 Dual-Class Build — `dev.exe` × `sec.exe`
 
 <table align="center">
 <tr>
@@ -80,44 +76,40 @@ Network + offensive security in active training — routing, segmentation, ACL h
 </table>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=400&color=00F5FF,FF00E4&center=true&vCenter=true&width=750&lines=%24+two+disciplines.+one+operator.;%24+build+the+system+%E2%86%92+then+break+it+%E2%86%92+then+harden+it;%24+most+devs+don't+think+like+attackers.+i+do." alt="fusion"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=2000&pause=400&color=00F5FF,FF00E4&center=true&vCenter=true&width=750&lines=%24+two+disciplines.+one+operator.;%24+build+the+system+%E2%86%92+then+break+it+%E2%86%92+then+harden+it;%24+most+devs+don't+think+like+attackers.+i+do." alt="fusion"/>
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Payload — Build × Secure × Automate
+## 🧬 Payload — Build × Secure × Automate
 
 <table align="center">
 <tr>
 <td align="center" width="20%">
 
-**`[ full_stack ]`**
-<br/>🔵
-<br/>
+**`[ full_stack ]`** 🔵
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs&theme=dark"/>
 
 </td>
 <td align="center" width="20%">
 
-**`[ backend_data ]`**
-<br/>🟣
-<br/>
+**`[ backend_data ]`** 🟣
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode&theme=dark"/>
 
 </td>
 <td align="center" width="20%">
 
-**`[ design_auto ]`**
-<br/>🟡
-<br/>
+**`[ design_auto ]`** 🟡
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=figma,framer,docker&theme=dark"/>
 
 </td>
 <td align="center" width="20%">
 
-**`[ net_sec ]`**
-<br/>🔴
-<br/>
+**`[ net_sec ]`** 🔴
+<br/><br/>
 <img src="https://img.shields.io/badge/Cisco-0A0A1F?style=flat-square&logo=cisco&logoColor=00F5FF"/><br/>
 <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=flat-square&logo=wireshark&logoColor=00F5FF"/><br/>
 <img src="https://img.shields.io/badge/Kali-0A0A1F?style=flat-square&logo=kalilinux&logoColor=00F5FF"/>
@@ -125,9 +117,8 @@ Network + offensive security in active training — routing, segmentation, ACL h
 </td>
 <td align="center" width="20%">
 
-**`[ cloud ]`**
-<br/>🟠
-<br/>
+**`[ cloud ]`** 🟠
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
 </td>
@@ -136,7 +127,7 @@ Network + offensive security in active training — routing, segmentation, ACL h
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Live Processes — currently running
+## 🔴 Live Processes — currently running
 
 <div align="center">
 
@@ -152,7 +143,7 @@ Network + offensive security in active training — routing, segmentation, ACL h
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"/> Exploits Deployed — `ls -la ./builds --sort=impact`
+## 💥 Exploits Deployed — `ls -la ./builds --sort=impact`
 
 <table align="center" width="100%">
 <tr>
@@ -223,7 +214,7 @@ Full tournament ecosystem for a 130,000+ member gaming community — Discord bot
 
 <br/>
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"/> System Metrics
+## 📊 System Metrics
 
 <div align="center">
 
@@ -242,7 +233,7 @@ Full tournament ecosystem for a 130,000+ member gaming community — Discord bot
 
 <br/>
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> `> tail -f activity.log`
+## 📡 `> tail -f activity.log`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadParkar&theme=neon&bg_color=0A0A1F&color=00F5FF&line=FF00E4&point=FFD700&hide_border=true"/>
@@ -250,7 +241,7 @@ Full tournament ecosystem for a 130,000+ member gaming community — Discord bot
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00F5FF,100:FF00E4&height=3&section=header" width="100%"/>
 
 <div align="center">
 
