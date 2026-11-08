@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Saad Parkar — Founder & CEO @ Coreegin"/>
+<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/main/banner.svg" width="100%" alt="Saad Parkar — Founder & CEO @ Coreegin"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=500&color=00F5FF&center=true&vCenter=true&width=900&height=50&lines=%3E+founder+%26+ceo+%40+coreegin;%3E+i+build+it+%E2%86%92+then+i+try+to+break+it+%E2%86%92+then+i+harden+it;%3E+full-stack+%2B+network+%26+cloud+security;%3E+AI-augmented.+client-shipped.+always+learning." alt="typing"/>
 
@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E4,100:39FF14&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="assets/terminal.svg" width="82%" alt="terminal"/>
+<img src="https://raw.githubusercontent.com/SaadParkar/SaadParkar/main/terminal.svg" width="82%" alt="terminal"/>
 </div>
 
 ## ⚡ `./about.json`
